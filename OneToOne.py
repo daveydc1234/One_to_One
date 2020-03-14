@@ -1,3 +1,4 @@
+#! python
 def OnetoOne(s1, s2):
     my_dict = {} #empty dictionary to hold one to one mapping
     if(len(s1)!=len(s2)): #check if lengths of string are unequal
